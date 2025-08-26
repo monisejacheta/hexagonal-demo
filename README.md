@@ -34,12 +34,15 @@ Este repositório demonstra a implementação de uma arquitetura hexagonal em um
    git clone https://github.com/seu-usuario/hexagonal-demo.git
    
 2. Navegue até o diretório do projeto:
+   ```bash
     cd hexagonal-demo
    
 4. Construa o projeto:
+    ```bash
    ./mvnw clean install
    
 6. Execute os testes:
+   ```bash
    ./mvnw test
 
 
