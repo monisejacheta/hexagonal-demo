@@ -16,16 +16,16 @@ Este repositório demonstra a implementação de uma arquitetura hexagonal em um
 
 ##Tecnologias Utilziadas
 
-- **Java: 17
-- **Spring Boot: 3.3.0
-- **MapStruct: 1.5.5.Final
-- **Lombok: 1.18.30
-- **ArchUnit: 1.4.1
-- **Springdoc OpenAPI: 2.1.0
-- **Maven Compiler Plugin: 3.13.0
-- **Maven Resources Plugin: 3.3.1
-- **Spring Boot Maven Plugin: 3.5.4
-- **Banco de dados: H2 Database
+- **Java:** 17
+- **Spring Boot:** 3.3.0
+- **MapStruct:** 1.5.5.Final
+- **Lombok:** 1.18.30
+- **ArchUnit:** 1.4.1
+- **Springdoc OpenAPI:** 2.1.0
+- **Maven Compiler Plugin:** 3.13.0
+- **Maven Resources Plugin:** 3.3.1
+- **Spring Boot Maven Plugin:** 3.5.4
+- **Banco de dados:** H2 Database
 
 ## Como Executar
 
