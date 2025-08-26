@@ -14,7 +14,7 @@ Este repositório demonstra a implementação de uma arquitetura hexagonal em um
 - **Isolamento do Domínio**: O domínio é isolado de detalhes de implementação, como frameworks e bibliotecas, garantindo que a lógica de negócio permaneça independente.
 
 
-##Tecnologias Utilziadas
+## Tecnologias Utilizadas
 
 - **Java:** 17
 - **Spring Boot:** 3.3.0
