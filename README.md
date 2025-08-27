@@ -1,4 +1,4 @@
-# Hexagonal Architecture Demo
+# Arquitetura Hexagonal-demo
 
 Este repositório demonstra a implementação de uma arquitetura hexagonal em uma aplicação Java, destacando a separação de preocupações e a flexibilidade estrutural.
 
